@@ -43,4 +43,4 @@ I have written blogs about my GSoC work - [GSoC PSF blogs](https://blogs.python-
 - Adding a new section to [EOS Icons website - docs](https://eos-icons.com/docs) for guiding the user with installation and usage process.
 
 ## Thank you
-The past few months have been no less than magical! I had a lot of fun and learned a lot over this time duration all because of the endless support of my awesome mentors. Google Summer of Code with the EOS community was by far the best experience. The guidance provided for setting up my development enviroment in a more proficient way to helping me solve complicated will surely help me in becoming a better developer. Will keep on contributing to EOS 💖
+The past few months have been no less than magical! I had a lot of fun and learned a lot over this time duration all because of the endless support of my awesome mentors. Google Summer of Code with the EOS community was by far the best experience. The guidance provided for setting up my development enviroment in a more proficient way to helping me solve complicated problems will surely help me in becoming a better developer. Will keep on contributing to EOS 💖
