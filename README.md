@@ -31,7 +31,7 @@ React - [My Code contributions](https://github.com/EOS-uiux-Solutions/eos-icons-
 
 Vue 3 - [My Code contributions](https://github.com/EOS-uiux-Solutions/eos-icons-vue/pulls?q=is%3Apr+is%3Aclosed+author%3Avinayaksh42), [Project Readme](https://github.com/EOS-uiux-Solutions/eos-icons-vue/blob/main/README.md), [npm link - EOS-Icons Vue3](https://www.npmjs.com/package/eos-icons-vue3)
 
-Vue 2 - [My Code contributions](https://github.com/EOS-uiux-Solutions/eos-icons-vue2/pulls)
+Vue 2 - [My Code contributions](https://github.com/EOS-uiux-Solutions/eos-icons-vue2/pulls), [Project Readme](https://github.com/EOS-uiux-Solutions/eos-icons-vue2/blob/main/README.md), [npm link - EOS-Icons Vue2](https://www.npmjs.com/package/eos-icons-vue2)
 
 ## My journey
 I have written blogs about my GSoC work - [GSoC PSF blogs](https://blogs.python-gsoc.org/en/vinayaksh42s-blog/)
