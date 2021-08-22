@@ -26,6 +26,9 @@ Currently EOS delivers icons via a set of well documented methods, which chiefly
 - Structure for supporting treeshaking (based on EOS-Icons React npm package, mentioned above)
 - Vue-styled components for supporting Vue 2 based projects (Vue 2)
 - Implementation of Rollup for building TypeScript Vue components into commonjs and esnext format
+### Other contributions
+- Added docs section for `React` and `Vue 2/3`, [link](https://eos-icons.com/docs)
+- configure semantic release for eos-cra-template
 ## More info about the project:
 React - [My Code contributions](https://github.com/EOS-uiux-Solutions/eos-icons-react/pulls?q=is%3Apr+is%3Aclosed+author%3Avinayaksh42), [Project Readme](https://github.com/EOS-uiux-Solutions/eos-icons-react/blob/main/README.md), [npm link - EOS-Icons React](https://www.npmjs.com/package/eos-icons-react)
 
